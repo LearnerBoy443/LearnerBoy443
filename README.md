@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Abhirup Chakraborty
-- 👀 I’m interested in Web development and Python programming
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT and Python
-- 💞️ I’m looking to collaborate on Python programmer
-- 📫 How to reach me
-- Gmail=chakrabortyabhirup23@gmail.com/cabhirup69@gamil.com
+- 👋 Hi, I am a student at St. Thomas College with a strong foundation in C programming and currently learning Python. Passionate about web development, I am also learning HTML and CSS. My enthusiasm for technology drives me to solve problems and engage in innovative projects. I am eager to apply my skills and collaborate with others to make a meaningful impact in the tech industry.
 
 <!---
 LearnerBoy443/LearnerBoy443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
